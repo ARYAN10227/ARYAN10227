@@ -87,8 +87,8 @@ Final-year engineering student at BIT Mesra, Ranchi, who ended up falling in lov
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYAN10227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAN10227&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats-plum-five-23.vercel.app/api?username=ARYAN10227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
+  <img src="https://github-readme-stats-plum-five-23.vercel.app/api/top-langs/?username=ARYAN10227&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
   <img src="https://streak-stats.demolab.com/?user=ARYAN10227&theme=tokyonight&hide_border=true" width="32%" />
 </div>
 
