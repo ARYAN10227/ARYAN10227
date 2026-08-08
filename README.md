@@ -80,7 +80,7 @@ Final-year engineering student at BIT Mesra, Ranchi, who ended up falling in lov
 |---|---|---|
 | **[URL Shortener with Analytics](https://github.com/ARYAN10227)** | Node.js · Redis · Docker · AWS | ⚡ 10k+ redirects/min at <10ms median latency, 80% cache hit rate |
 | **[Real-Time Chat Platform](https://github.com/ARYAN10227)** | Socket.io · Redis Pub/Sub · MongoDB | 💬 500+ concurrent connections, sub-50ms message delivery |
-| **[Pneumonia Detection Platform](https://github.com/ARYAN10227/PulmoNet)** | Python · CNN · Full-Stack | 🩺 ~94% classification accuracy, predictions in under 3s |
+| **[Pneumonia Detection Platform](https://github.com/variablePotato/PulmoNet)** | Python · CNN · Full-Stack | 🩺 ~94% classification accuracy, predictions in under 3s |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
