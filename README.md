@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Raj&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Aryan%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://linkedin.com/in/aryan-raj-2b3868340">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%2B+Redis+%2B+Docker;Building+Scalable+%26+Distributed+Systems;350%2B+LeetCode+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Node.js+%2B+Redis+%2B+Docker;Building+Scalable+%26+Distributed+Systems;350%2B+LeetCode+Problems+Solved" />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://linkedin.com/in/aryan-raj-2b3868340">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=ARYAN10227&color=6c63ff&style=flat-square&label=Profile+Views" />
 
 </div>
@@ -29,11 +31,11 @@
 
 ### 👋 About Me
 
-I'm a final-year **B.Tech (Electronics & Communication Engineering)** student at BIT Mesra, Ranchi, focused on backend and distributed systems. I've completed two backend internships — building production REST APIs at **Rookus Ventures LLP** and scaling a library management platform from 20 to 600+ users at **Stedzo**. I've solved 350+ problems on LeetCode and stay active on Codeforces and CodeChef.
+Final-year engineering student at BIT Mesra, Ranchi, who ended up falling in love with backend systems — APIs, caching, queues, the stuff that keeps things running when nobody's watching. Two backend internships in: shipped 10+ production REST APIs at **Rookus Ventures LLP**, and scaled a library platform from 20 to 600+ users at **Stedzo**. 350+ LeetCode problems deep and still counting.
 
-🔭 **Currently working on:** a full-stack pneumonia detection platform (CNN, ~94% accuracy on chest X-rays), with an IEEE research manuscript under review.
+🔭 **Building right now:** a full-stack pneumonia detection platform (CNN, ~94% accuracy) — co-authoring an IEEE paper on it, currently under review.
 
-⚡ **Fun fact:** I've optimized API endpoints to cut response times by ~25% — I like my code fast and my coffee faster.
+⚡ **Known for:** shaving 25% off API response times and then immediately looking for the next thing to optimize.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
@@ -78,7 +80,7 @@ I'm a final-year **B.Tech (Electronics & Communication Engineering)** student at
 |---|---|---|
 | **[URL Shortener with Analytics](https://github.com/ARYAN10227)** | Node.js · Redis · Docker · AWS | ⚡ 10k+ redirects/min at <10ms median latency, 80% cache hit rate |
 | **[Real-Time Chat Platform](https://github.com/ARYAN10227)** | Socket.io · Redis Pub/Sub · MongoDB | 💬 500+ concurrent connections, sub-50ms message delivery |
-| **[Pneumonia Detection Platform](https://github.com/ARYAN10227/PulmoNet)** | Python · CNN · Full-Stack | 🩺 ~94% classification accuracy, predictions served in under 3s |
+| **[Pneumonia Detection Platform](https://github.com/ARYAN10227/PulmoNet)** | Python · CNN · Full-Stack | 🩺 ~94% classification accuracy, predictions in under 3s |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
@@ -87,7 +89,7 @@ I'm a final-year **B.Tech (Electronics & Communication Engineering)** student at
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARYAN10227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAN10227&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYAN10227&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=ARYAN10227&theme=tokyonight&hide_border=true" width="32%" />
 </div>
 
 <div align="center">
@@ -97,5 +99,5 @@ I'm a final-year **B.Tech (Electronics & Communication Engineering)** student at
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 <div align="center">
-  <sub>Thanks for stopping by — always open to interesting backend & systems conversations 🚀</sub>
+  <sub>Thanks for stopping by — always up for a good conversation about backend systems 🚀</sub>
 </div>
