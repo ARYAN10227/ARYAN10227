@@ -14,7 +14,7 @@
 <a href="mailto:aryanrajpersonal12@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/aryanraj01">
+<a href="https://leetcode.com/u/ARYAN12work">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://github.com/ARYAN10227">
