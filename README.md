@@ -93,8 +93,7 @@ Final-year engineering student at BIT Mesra, Ranchi, who ended up falling in lov
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARYAN10227&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
+ <img src="https://raw.githubusercontent.com/ARYAN10227/ARYAN10227/main/trophy.svg" /></div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
