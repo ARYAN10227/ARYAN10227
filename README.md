@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://linkedin.com/in/aryan-raj-2b3868340">
+<a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:aryanrajpersonal12@gmail.com">
