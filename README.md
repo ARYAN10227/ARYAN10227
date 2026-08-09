@@ -8,13 +8,13 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://linkedin.com/in/aryan-raj-2b3868340">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:aryanrajpersonal12@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/ARYAN12work">
+<a href="https://leetcode.com/u/aryanraj01">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://github.com/ARYAN10227">
