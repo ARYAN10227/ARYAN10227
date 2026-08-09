@@ -19,7 +19,7 @@ jobs:
           max-cols: 6
           max-rows: 1
           no-frame: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update trophy image"
