@@ -124,7 +124,7 @@ A full-stack URL shortener: JWT accounts, a link dashboard, per-link click analy
 
 | Project | Stack | Highlight |
 |---|---|---|
-| **[NeatDesk](https://github.com/ARYAN10227/NeatDesk)** | React · Node/Express · PostgreSQL · Clerk · Inngest | 🗂️ Project management: orgs, teams, task assignment, automated email reminders |
+| **[NeatDesk](https://github.com/ARYAN10227/NeatDesk)** · [▶ Live](https://neat-desk.vercel.app/) | React · Node/Express · Prisma · PostgreSQL · Clerk · Inngest | 🗂️ Team project management: workspaces with roles, tasks, comments, analytics, automated due-date email reminders |
 | **[Real-Time Chat Platform](https://github.com/ARYAN10227/Distributed-Real-Time-Chat-Platform)** | Socket.io · Redis Pub/Sub · MongoDB | 💬 500+ concurrent connections, sub-50ms message delivery |
 | **[Pneumonia Detection Platform](https://github.com/variablePotato/PulmoNet)** | Python · CNN · Full-Stack | 🩺 ~94% classification accuracy, predictions in under 3s |
 
